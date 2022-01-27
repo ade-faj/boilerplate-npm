@@ -1,6 +1,7 @@
 {
-	"author": "adeoluwa fajimokun",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "adeoluwa fajimokun",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
